@@ -1,4 +1,4 @@
-# 100 Days Of Code - Reon Saji | Log
+# 100 Days Of Code - Mohammed Shabin | Log
 
 ### Day 0: July 15, 2018
 
